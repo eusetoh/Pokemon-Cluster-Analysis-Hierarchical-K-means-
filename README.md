@@ -14,4 +14,4 @@ K-means Clustering
     2. Chose 2 cluster solution as it divided Pokemon into 2 groups fairly well (357 and 327 Pokemon in Clusters 1 and 2 respectively)
     3. Used the cluster solution to predict outcomes like against_ice, is_legendary etc
     4. Cluster solution has predicitve capabilitites
-    5. Recommend more work be done to interpret the cluster solution, and explore what other variables cluster solution is able to interpret
+    5. Recommend more work be done to interpret the cluster solution, and explore what other variables cluster solution is able to predict
