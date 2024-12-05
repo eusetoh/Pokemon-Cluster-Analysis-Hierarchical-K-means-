@@ -1,4 +1,4 @@
-R scipt doing (1) hierarhical clustering and (2) k-means clustering on Pokemon Database (https://www.kaggle.com/datasets/rounakbanik/pokemon)
+R scipt doing (1) hierarchical clustering and (2) k-means clustering on Pokemon Database (https://www.kaggle.com/datasets/rounakbanik/pokemon)
 
 Hierarhical Clustering
 
@@ -8,6 +8,8 @@ Hierarhical Clustering
     4. None of the cluser solutions could evenly divide the Pokemon - need to try alternative methods
 
 K-means Clustering
+
+
     1. Explored 2,3,4 cluster solutions
     2. Chose 2 cluster solution as it divided Pokemon into 2 groups fairly well (357 and 327 Pokemon in Clusters 1 and 2 respectively)
     3. Used the cluster solution to predict outcomes like against_ice, is_legendary etc
