@@ -5,7 +5,7 @@ Hierarhical Clustering
     1. Chose 10 continuous variables as clustering variables
     2. Standardised variables given the scale sensitivity issue in cluster analysis (euclidean distance)
     3. Explored a 2,3,4 cluter solution
-    4. None of the cluser solutions could evenly divide the Pokemon - need to try alternative methods
+    4. None of the cluster solutions could evenly divide the Pokemon - need to try alternative methods
 
 K-means Clustering
 
